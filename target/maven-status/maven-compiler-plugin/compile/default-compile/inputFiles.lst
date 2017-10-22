@@ -1,0 +1,11 @@
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\configuration\RestConfig.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\exception\ResourceNotFoundException.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\model\StudentGrade.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\StudentEmailClientApp.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\exception\UnexpectedHttpException.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\configuration\properties\WebServicesConfiguration.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\CustomClientErrorHandler.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\model\Student.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\service\StudentEmailClientService.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\StudentEmailClient.java
+I:\workspace\StudentEmailClient\src\main\java\br\com\student\email\client\model\StudentEmailInformation.java

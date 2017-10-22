@@ -1,0 +1,12 @@
+br\com\student\email\client\StudentEmailClient$1.class
+br\com\student\email\client\StudentEmailClient.class
+br\com\student\email\client\exception\UnexpectedHttpException.class
+br\com\student\email\client\model\Student.class
+br\com\student\email\client\exception\ResourceNotFoundException.class
+br\com\student\email\StudentEmailClientApp.class
+br\com\student\email\client\CustomClientErrorHandler.class
+br\com\student\email\client\model\StudentGrade.class
+br\com\student\email\client\configuration\properties\WebServicesConfiguration.class
+br\com\student\email\client\service\StudentEmailClientService.class
+br\com\student\email\client\model\StudentEmailInformation.class
+br\com\student\email\client\configuration\RestConfig.class
